@@ -1,0 +1,54 @@
+I"+
+<div id="archives" class="pl-xl-2"> <span class="lead">2020</span>
+    <ul class="list-unstyled">
+        <li>
+            <div> <span class="date day"> </span> <span class="date month small text-muted">Fall</span> <a>Literature Review</a></div>
+        </li>
+        <li>
+            <div> <span class="date day"> </span> <span class="date month small text-muted">Fall</span> <a>Team Budget</a></div>
+        </li>
+        <li>
+            <div> <span class="date day"> </span> <span class="date month small text-muted">Fall</span> <a>Contact Experts</a></div>
+        </li>
+        <li>
+            <div> <span class="date day"> </span> <span class="date month small text-muted">Fall</span> <a>Methodology</a></div>
+        </li>
+        <li>
+            <div> <span class="date day"> </span> <span class="date month small text-muted">Fall</span> <a>Thesis Proposal</a></div>
+        </li>
+    </ul><span class="lead">2021</span>
+    <ul class="list-unstyled">
+        <li>
+            <div> <span class="date day"> </span> <span class="date month small text-muted">Spr</span> <a>IRB Approval</a></div>
+        </li>
+        <li>
+            <div> <span class="date day"> </span> <span class="date month small text-muted">Spr</span> <a>Begin Data Collection</a></div>
+        </li>
+        <li>
+            <div> <span class="date day"> </span> <span class="date month small text-muted">Spr</span> <a>Begin Developing Algorithm</a></div>
+        </li>
+        <li>
+            <div> <span class="date day"> </span> <span class="date month small text-muted">Spr</span> <a>Begin Engineering Prosthesis</a></div>
+        </li>
+        <li>
+            <div> <span class="date day"> </span> <span class="date month small text-muted">Fall</span> <a>Do Good Showcase</a></div>
+        </li>
+        <li>
+            <div> <span class="date day"> </span> <span class="date month small text-muted">Fall</span> <a>Begin Testing BCI Systems</a></div>
+        </li>
+    </ul><span class="lead">2022</span>
+    <ul class="list-unstyled">
+        <li>
+            <div> <span class="date day"> </span> <span class="date month small text-muted">Spr</span> <a>Finish Data Collection and Testing</a></div>
+        </li>
+        <li>
+            <div> <span class="date day"> </span> <span class="date month small text-muted">Fall</span> <a>Evaluate Progress</a></div>
+        </li>
+    </ul><span class="lead">2022</span>
+    <ul class="list-unstyled">
+        <li>
+            <div> <span class="date day"> </span> <span class="date month small text-muted">Spr</span> <a>...</a></div>
+        </li>
+    </ul>
+</div>
+:ET
