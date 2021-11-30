@@ -17,7 +17,7 @@ timezone: America/New_York
 # --------------------------
 title: BCIPRO 2023                         # the main title
 
-tagline: Empower yourself with BCIPRO   # it will display as the sub-title
+tagline: BCIPRO aims to improve existing BCI prosthetic technology.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Researching brain computer interface prosthesis (BCIPRO)
